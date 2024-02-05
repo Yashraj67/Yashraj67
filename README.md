@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-<h1 align="center">Hi 👋, I'm Yashraj!</h1>
+<h1 align="center">Hi 👋, I'm Yashraj Patil !</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashraj67&label=Profile%20views&color=0e75b6&style=flat" alt="yashraj67" /> </p>
@@ -16,6 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yashraj-patil-905a971b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashraj-patil-905a971b4/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/cafecoder22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/cafecoder22/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/yashraj22111057" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/yashraj22111057" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
